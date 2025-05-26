@@ -20,8 +20,7 @@ Using Docker lets you ship code faster, standardize application operations, seam
 ## Project Flow Chart
 ![flowchart](https://user-images.githubusercontent.com/90943529/217798777-82aae959-6260-4d0e-80a6-d8c674b77225.png)
 
-## Project Demo Video
-https://user-images.githubusercontent.com/90943529/217801537-dee53520-4f2f-4e31-b820-afd04453a20c.mp4
+
 
 
 
